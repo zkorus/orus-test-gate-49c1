@@ -1,0 +1,7 @@
+{
+  "name": "orus-test-gate-49c1",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  }
+}
